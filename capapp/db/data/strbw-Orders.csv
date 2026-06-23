@@ -1,0 +1,4 @@
+orderNumber,itemNumber,product,sourceLocation,destinationLocation,mot,quantity,uom,category,categoryDescription,startDate,endDate,destDaySupp,destStockOH,mot2,aimot2,abcClass,week,approveLoad,reasonCode,fastestMOT,slowestMOT,productCategory,estimatedRisk,profitAtRisk,costDelta,impactAmount,fastestMOTCost,slowestMOTCost,fastestMOTDurationDays,slowestMOTDurationDays,aiReason
+1000,10,Streering,78660
+1000,20,Streering Cover,78660
+1001,10,Tyre,78660
