@@ -1,0 +1,12 @@
+general:
+  buildTool: "mta"
+
+stages:
+  Build:
+    mavenExecuteStaticCodeChecks: false
+    karmaExecuteTests: false
+    npmExecuteScripts: false
+
+steps:
+  mtaBuild:
+    mtaBuildTool: "cloudMbt"
